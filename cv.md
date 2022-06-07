@@ -7,8 +7,8 @@ e-mail: tshristovskaya@gmail.com
 Minsk, Belarus
 
 ## Specializations: 
-Teacher, choreografer
+Teacher, choreographer
 
 ## Languages: 
-English: A1
+English: A1,
 Hindi - A1
