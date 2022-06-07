@@ -3,12 +3,12 @@
 ## Contacts: 
 e-mail: tshristovskaya@gmail.com
 
-### Location: 
+## Location: 
 Minsk, Belarus
 
-#### Specializations: 
+## Specializations: 
 Teacher, choreografer
 
-##### Languages: 
+## Languages: 
 English: A1
 Hindi - A1
